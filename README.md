@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 Hi! Welcome to my React Ride with Codecademy.
-In this project, I am re looking at all the react concepts and creating some exciting projects useing create-react-app. 
+In this project, I am re looking at all the react concepts and creating some exciting projects using create-react-app. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
